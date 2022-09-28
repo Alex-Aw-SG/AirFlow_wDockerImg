@@ -1,7 +1,10 @@
 # AirFlow_wDockerImg
 Learning to build AirFlow with Docker Images. 
 
-http://localhost:8080/				AirFlow UI
-http://localhost:5555/				Flower UI
+AirFlow UI   
+http://localhost:8080/		
+
+Flower UI   
+http://localhost:5555/				
 
 user/pass = airflow/airflow
